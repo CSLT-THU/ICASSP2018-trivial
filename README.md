@@ -21,11 +21,11 @@ cough or one laugh) in each segment.
 
 Each wav file's name consists of three numbers parted with "_": 
 
-The first one represents the event type: 1--cough, 2--laugh, 16--'Hmm', 17--'Tsk-tsk', 19--'Ahem', 20--'Sniff'.
+  The first one represents the event type: 1--cough, 2--laugh, 16--'Hmm', 17--'Tsk-tsk', 19--'Ahem', 20--'Sniff'.
 
-The second one represents person number.
+  The second one represents person number.
 
-The third one represents segment number.
+  The third one represents segment number.
 
 For the machine test, there are about 260000 trials for each event type.
 
@@ -36,11 +36,11 @@ Each sentence was spoken twice, one time in the normal style and one time with i
 
 Each wav file's name consists of three numbers parted with "_":
 
-The first one represents the event type: 21--disguise.
+  The first one represents the event type: 21--disguise.
 
-The second one represents person number.
+  The second one represents person number.
 
-The third one represents segment number. (Deserve to be mentioned, the odd segment number is the sentence in normal
+  The third one represents segment number. (Deserve to be mentioned, the odd segment number is the sentence in normal
 style, and the even one is the sentence in disguise. Every two continuous odd-even segments have same texts.)
 
 ## Contact
