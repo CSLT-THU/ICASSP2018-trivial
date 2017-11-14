@@ -24,13 +24,20 @@ The first one represents the event type: 1--cough, 2--laugh, 16--'Hmm', 17--'Tsk
 The second one represents person number.
 The third one represents segment number.
 
+For the machine test, there are about 260000 trials for each event type.
+
 ### CSLT-DISGUISE-I
 Before the recording, the participants were instructed to try their best to counterfeit their voices when recording 
 the disguise speech. During the recording, the application asked the participants to pronounce 6 sentences. 
 Each sentence was spoken twice, one time in the normal style and one time with intentional disguise.
 
 Each wav file's name consists of three numbers parted with "_":
-The first one represents the event type: 21--disguise
+The first one represents the event type: 21--disguise.
+The second one represents person number.
+The third one represents segment number. (Deserve to be mentioned, the odd segment number is the sentence in normal
+style, and the even one is the sentence in disguise. Every two continuous odd-even segments have same texts.)
+
 ## Contact
 
+Miao Zhang (zhangmiao@cslt.riit.tsinghua.edu.cn)
 Dong Wang (wangdong99@mails.tsinghua.edu.cn)
