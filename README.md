@@ -45,5 +45,5 @@ style, and the even one is the sentence in disguise. Every two continuous odd-ev
 
 ## Contact
 
-Miao Zhang (zhangmiao1018@hotmail.com)
+Miao Zhang (zhangmiao@cslt.riit.tsinghua.edu.cn)
 Dong Wang (wangdong99@mails.tsinghua.edu.cn)
